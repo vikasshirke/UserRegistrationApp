@@ -1,8 +1,8 @@
-📌 UserRegistrationLiveDataApp
+📌 UserRegistrationApp
 
 📝 Description
 
-UserRegistrationLiveDataApp is a simple Android application built using the MVVM architecture with LiveData and ViewModel.
+UserRegistrationApp is a simple Android application built using the MVVM architecture with LiveData and ViewModel.
 It demonstrates user registration and login functionality with local persistence using Room Database.
 The app validates user inputs and provides success/failure feedback via dialogs.
 
