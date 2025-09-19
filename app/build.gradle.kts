@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "ug.go.ugpass.userregistrationlivedataapp"
+    namespace = "com.dtt.ugpass.userregistrationapp"
     compileSdk = 36
 
     defaultConfig {
